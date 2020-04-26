@@ -8,5 +8,5 @@ C:\Users\alexdieu\DEV1\exemple_dict.txt ( 3EME ARGUMENT (NON FACULTATIF) Défini
 
 Donc au final vous devez avoir quelquechose comme ca :
 
-Arguments : nb 1 C:\Users\alexdieu\DEV1\exemple_dict.txt
+Arguments : 5 1 C:\Users\alexdieu\DEV1\exemple_dict.txt
 
