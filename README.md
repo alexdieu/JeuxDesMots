@@ -10,3 +10,7 @@ Donc au final vous devez avoir quelquechose comme ca :
 
 Arguments : 5 1 C:\Users\alexdieu\DEV1\exemple_dict.txt
 
+ou si vous l'avez build
+
+java JeuDesMots.jar 5 1 C:\Users\alexdieu\DEV1\exemple_dict.txt
+
